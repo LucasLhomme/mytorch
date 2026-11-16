@@ -1,5 +1,10 @@
 # MyTorch — Neural Network from Scratch
 
+[![School: Epitech](https://img.shields.io/badge/School-Epitech-005696.svg)](https://www.epitech.eu/)
+[![Academic Year: 2026-2027](https://img.shields.io/badge/Academic%20Year-2026--2027%20(Tek3)-blueviolet.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+
 A modular artificial neural network implementation built from scratch in **Python** using only **NumPy**, without any high-level machine learning frameworks (no PyTorch, TensorFlow, etc.).
 
 The project is designed to classify chessboard configurations represented in **FEN** (*Forsyth-Edwards Notation*) into three discrete states:
